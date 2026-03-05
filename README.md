@@ -20,8 +20,8 @@ Research interests include applied machine learning, computational modeling, and
 
 ### Technical Areas
 
-Machine Learning • Statistical Modeling • Network Analysis  
-Computational Systems • Predictive Modeling
+Artificial Intelligence • Machine Learning • Statistical Modeling  
+Network Analysis • Computational Systems • Predictive Modeling
 
 ---
 
